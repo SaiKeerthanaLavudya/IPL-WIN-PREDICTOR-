@@ -24,6 +24,19 @@ The predictor is trained using the following datasets:
 - **Flask** (Optional for backend API integration)
 - **Jupyter Notebook** (For data preprocessing and model training)
 
+## 📸 Screenshots
+
+### 🏏 Match Prediction UI
+![Match Prediction](https://github.com/SaiKeerthanaLavudya/IPL-WIN-PREDICTOR-/blob/main/Images/Screenshot%202025-04-05%20154829.png?raw=true)
+
+### 📊 Results Visualization
+![Results](https://github.com/SaiKeerthanaLavudya/IPL-WIN-PREDICTOR-/blob/main/Images/Screenshot%202025-04-05%20154930.png?raw=true)
+
+
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://iplteamwinprediction.streamlit.app/)
+
 ## 🔧 Setup & Usage
 ### 1️⃣ Clone the repository:
 ```bash
