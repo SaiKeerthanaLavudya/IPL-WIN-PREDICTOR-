@@ -35,7 +35,7 @@ The predictor is trained using the following datasets:
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](http://localhost:8501/)
+👉 [Click here to try the app](https://ipl-win-predictor-9194.onrender.com/)
 
 ## 🔧 Setup & Usage
 ### 1️⃣ Clone the repository:
