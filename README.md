@@ -35,7 +35,7 @@ The predictor is trained using the following datasets:
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://iplteamwinprediction.streamlit.app/)
+👉 [Click here to try the app](http://localhost:8501/)
 
 ## 🔧 Setup & Usage
 ### 1️⃣ Clone the repository:
