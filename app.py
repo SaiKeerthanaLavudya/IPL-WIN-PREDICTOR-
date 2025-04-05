@@ -4,8 +4,8 @@ import pandas as pd
 import pickle
 
 # Load data
-matches = pd.read_csv(r"C:\Users\ramch\Downloads\Ipl Win Predictor\Datasets\matches.csv")
-deliveries = pd.read_csv(r"C:\Users\ramch\Downloads\Ipl Win Predictor\Datasets\deliveries.csv")
+matches = pd.read_csv("Datasets\matches.csv")
+deliveries = pd.read_csv("Datasets\deliveries.csv")
 model = pickle.load(open("ipl_win_predictor.pkl", "rb"))
 
 # IPL Teams & Cities
@@ -71,4 +71,4 @@ else:
     st.warning("⚠️ Please ensure overs > 0, wickets < 10, and score < target.")
 
 # Footer
-st.markdown("<footer>⚡ Built with ❤️ by Ramcharan Singh Ramavath</footer>", unsafe_allow_html=True)
+st.markdown("<footer>⚡ Built with ❤️ by Sai Keerthana Lavudya</footer>", unsafe_allow_html=True)
