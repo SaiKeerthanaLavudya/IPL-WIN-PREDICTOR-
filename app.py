@@ -4,8 +4,8 @@ import pandas as pd
 import pickle
 
 # Load data
-matches = pd.read_csv("Datasets\matches.csv")
-deliveries = pd.read_csv("Datasets\deliveries.csv")
+matches = pd.read_csv("DATASET\matches.csv")
+deliveries = pd.read_csv("DATASET\deliveries.csv")
 model = pickle.load(open("ipl_win_predictor.pkl", "rb"))
 
 # IPL Teams & Cities
